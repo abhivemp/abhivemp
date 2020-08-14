@@ -26,7 +26,13 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 <br>
-<p align="center" <img src="https://github-readme-stats.vercel.app/api?username=abhivemp&show_icons=true" alt="abhivemp" /></p>
+<p align="center" <img src="https://github-readme-stats.vercel.app/api?username=abhivemp&show_icons=true" alt="abhivemp" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhivemp&show_icons=true&count_private=true" alt="abhivemp" />
+
+<br>
+</p>
+
+
 
 <p align="center">
 <a href="https://twitter.com/abhijitvemp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abhijitvemp" height="30" width="30" /></a>
