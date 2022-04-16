@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on Aslan
 
-- 🌱 I’m currently learning **react, aws**
+- 🌱 I’m currently learning **aws**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
 - 💬 Ask me about **Java, Python, Django**
 
-- 📫 How to reach me **abhijitvempati@gmail.com**
+- 📫 How to reach me **av3@duck.com**
 
 - ⚡ Fun fact **I can play the drums blindfolded**
 
