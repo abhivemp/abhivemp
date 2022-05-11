@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhivemp" alt="abhivemp" /> </p>
 
-- 🔭 I’m currently working on Aslan
+- 🔭 I’m currently working on [halo](https://github.com/tcnj-acm/halo)
 
 - 🌱 I’m currently learning **aws**
 
