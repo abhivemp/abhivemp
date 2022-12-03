@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, I'm Abhi Vempati</h1>
-<h3 align="center">An aspiring full stack developer and data scientist</h3>
+<h3 align="center">I build stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhivemp" alt="abhivemp" /> </p>
 
