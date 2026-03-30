@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhivemp" alt="abhivemp" /> </p>
 
-- 🔭 I’m currently working on [halo](https://github.com/tcnj-acm/halo)
+- 🔭 I’m currently working on [Dryft](https://teamdryft.com)
 
-- 🌱 I’m currently learning **aws**
+- 🌱 I’m currently learning **Tan Stack**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **Java, Python, Django**
+- 💬 Ask me about **Python, Django, and Ice Cream**
 
 - 📫 How to reach me **av3@duck.com**
 
